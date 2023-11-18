@@ -1,4 +1,4 @@
-# Enc_Dcy_Keamanan-Informasi
+# Encryption_Decryption_Keamanan-Informasi
 
 Untuk menjalankan simulasi komunikasi saya menggunakan GNS3 dengan menginstall g++. Pada project GNS3 saya membuat topologi sebagai berikut :
 
